@@ -13,10 +13,33 @@ with multi-level approval workflows, multi-currency support, and OCR receipt sca
 - Currency conversion via exchangerate API
 
 ## Tech Stack
-- Odoo 17
-- Python
-- XML (Odoo Views)
-- PostgreSQL
+
+### Frontend
+- React.js (Vite)
+- Tailwind CSS
+- React Router DOM
+- React Hook Form
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+- JWT (Authentication)
+- Bcrypt (Password Hashing)
+- Multer (Receipt File Upload)
+- Tesseract.js (OCR - Receipt Auto Read)
+
+### Database
+- MongoDB (Local) + Mongoose
+
+### External APIs
+- [RestCountries API](https://restcountries.com/v3.1/all?fields=name,currencies) — Country & Currency Data
+- [ExchangeRate API](https://api.exchangerate-api.com/v4/latest/{BASE_CURRENCY}) — Live Currency Conversion
+
+### Tools
+- Git & GitHub (Version Control)
+- VS Code
+- Postman (API Testing)
 
 ## Team
 - Prathmesh Gondhalekar
