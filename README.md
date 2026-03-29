@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Reimbursement Management System
 
 A full-stack web application designed to solve manual expense reimbursement problems in companies with multi-level approvals, multi-currency support, role-based access, and AI OCR receipt scanning.
