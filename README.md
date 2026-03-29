@@ -20,3 +20,6 @@ with multi-level approval workflows, multi-currency support, and OCR receipt sca
 
 ## Team
 - Prathmesh Satish Gondhalekar
+- Raj Deshmukh
+- Soham Patil
+- Yash Bilwal
